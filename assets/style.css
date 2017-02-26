@@ -1,0 +1,56 @@
+h1 {
+	color:white;
+	padding-left:20px;
+	margin-left:20px;
+	padding:20px;
+}
+body {
+	background-image:"images/bkg.png";
+}
+
+.links {
+	padding-top:35px;
+}
+.wrap {
+	background-image:"images/bkg.png";
+}
+section {
+	margin-left:20px;
+}
+.mepic {
+	max-width:400px;
+	max-height:400px;
+	padding:20px;
+	float:left;
+}
+.bio {
+	float:left
+}
+.porti1, .porti2, .porti3, .porti4, .porti5 {
+	max-height:300px;
+	max-width:300px;
+	position:relative;
+	z-index:1;
+	padding-top:20px;
+}
+.portt1, .portt2, .portt3, .portt4, .portt5 {
+	font-size:15px;
+	text-align:center;
+	position:relative;
+	z-index:2;
+	padding:10px;
+	max-width:300px;
+	top:-60px;
+}
+form {
+	margin-top:20px;
+}
+.bzn {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+footer {
+	margin-top: 20px;
+	text-align:center;
+	padding:20px;
+}
